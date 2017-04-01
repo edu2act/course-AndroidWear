@@ -1,1 +1,2 @@
-AndroidWear²Ö¿â
+# course-Android
+Wear
