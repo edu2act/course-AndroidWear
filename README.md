@@ -12,7 +12,7 @@ Wear
 Wear框架
 
 | 章节 | 资料 |
-|-----|-----|-----|
+|-----|-----|
 |01_1 AndroidWear简介|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/No1/01_1%20AndroidWear简介.pptx)|
 |01_2 AndroidWear开发环境搭建|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/No1/01_2%20AndroidWear开发环境搭建.pptx)|
 |01_3 连接手持设备与穿戴设备模拟器到开发环境|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/No1/01_3%20连接手持设备与穿戴设备模拟器到开发环境.pptx)|
