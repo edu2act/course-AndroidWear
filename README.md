@@ -21,3 +21,6 @@ Wear框架
 |04_1 Wear同步通知|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/No3/04_1%20Wear同步通知.pptx)|
 |04_2 Wear语音输入通知|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/No4/04_2%20Wear语音输入通知.pptx)|
 |04_3 Wear多页面通知|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/No4/04_3%20Wear多页面通知.pptx)|
+
+
+>						资料整理及提交 李玮玮
